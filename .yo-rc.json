@@ -1,0 +1,18 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "logistics",
+    "username": "user.name",
+    "userEmail": "user.email@example.com",
+    "stack": "fullstack",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "user.name",
+    "client": "ng2",
+    "stylePreprocessor": "none",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "typescript",
+    "secure": false,
+    "testsSeparated": false,
+    "differentStaticServer": false
+  }
+}
